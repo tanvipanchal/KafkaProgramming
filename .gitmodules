@@ -1,4 +1,0 @@
-[submodule "kafka-basics"]
-	path = kafka-basics
-	url = https://github.com/tanvipanchal/kafka-basics
-	branch = main
